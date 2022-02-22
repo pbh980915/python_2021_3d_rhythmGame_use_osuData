@@ -15,3 +15,5 @@ osu 데이터를 파싱 - 베지어 커브 미구현
 (dmp사용을 하면 좋을 듯 함)
 
 ![image](https://user-images.githubusercontent.com/82069536/155083706-46f3c1ea-49d7-44f6-a9d3-c97844229f48.png)
+
+https://youtu.be/5qOZkIKRCYc
